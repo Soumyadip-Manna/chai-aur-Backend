@@ -1,0 +1,16 @@
+{
+  "name": "professionalsetup",
+  "version": "1.0.0",
+  "description": "a Backend on chai aur code - youtube",
+  "keywords": [
+    "javascript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Soumyadip Manna",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
